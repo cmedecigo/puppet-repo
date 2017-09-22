@@ -1,6 +1,6 @@
 # Define filebucket 'main':
 filebucket { 'main':
-  server => 'la3puppet01.eliberation.com',
+  server => 'la3puppet01.local.com',
   path   => false,
 }
 
